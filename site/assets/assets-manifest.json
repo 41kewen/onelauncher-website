@@ -1,0 +1,98 @@
+{
+  "source_repository": "https://github.com/lnetface/OneLauncher",
+  "source_commit": "507e3b7cddf19d6c9a720dd229ab191c34992faf",
+  "background_sha256": "876b39365e0548c3d80a4a1cc9020ba3ac9969917ba3fd6ddb7e64904157f1b8",
+  "assets": [
+    {
+      "path": "onelauncher-icon.png",
+      "dimensions": [
+        256,
+        256
+      ],
+      "bytes": 20932,
+      "sha256": "ea265dc393dc0187426752e05c0ca6499166930302534e233ca2ad54bdf44d44"
+    },
+    {
+      "path": "hero.jpg",
+      "dimensions": [
+        1920,
+        1075
+      ],
+      "bytes": 607245,
+      "sha256": "3b07b032041fc913ebc763cafe65d8cb4b23016118227d348bd0ef80dd41e2d2"
+    },
+    {
+      "path": "hero-960.webp",
+      "dimensions": [
+        960,
+        537
+      ],
+      "bytes": 151332,
+      "sha256": "07d54a1494d3b8b0ad733d49a97183e01bf352b8052ef6aed83dce5a7f1ba040"
+    },
+    {
+      "path": "hero-1920.webp",
+      "dimensions": [
+        1920,
+        1075
+      ],
+      "bytes": 465796,
+      "sha256": "a54b944463c26469896c945c42752a116674c1e950a361ba3a234029e1f192e3"
+    },
+    {
+      "path": "hero-2944.webp",
+      "dimensions": [
+        2944,
+        1648
+      ],
+      "bytes": 883102,
+      "sha256": "2405b9925b92231a10f5729581f61d9e921e327a09177ddefb5b8372c02487df"
+    },
+    {
+      "path": "home.webp",
+      "dimensions": [
+        938,
+        632
+      ],
+      "bytes": 52896,
+      "sha256": "333847479a7e5e47c626317df59ccd501d6ee274ed74081c5bfee2fda82f8462"
+    },
+    {
+      "path": "download.webp",
+      "dimensions": [
+        973,
+        631
+      ],
+      "bytes": 38324,
+      "sha256": "e3dfe7b4301465a5afba68797c21d3f07bb1428575e645103169ef9e13cfce9f"
+    },
+    {
+      "path": "game-data.webp",
+      "dimensions": [
+        946,
+        620
+      ],
+      "bytes": 36736,
+      "sha256": "6ddfb1acb66185af4ec4a7d113cdee7bf6e0ab2c9864941869b1ce2618be24f6"
+    },
+    {
+      "path": "modrinth.webp",
+      "dimensions": [
+        964,
+        621
+      ],
+      "bytes": 35124,
+      "sha256": "024d52629a2b44c6f83abe9483fc3a5b958c1cb49941dff171cccf061f8fb352"
+    },
+    {
+      "path": "account-login.webp",
+      "dimensions": [
+        931,
+        605
+      ],
+      "bytes": 30814,
+      "sha256": "d4afa2f4d553dc0c482a322214b67236efe3571c9312939fcaeb2a5886196754"
+    }
+  ],
+  "originals_unchanged": true
+}

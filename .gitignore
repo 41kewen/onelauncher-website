@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.vercel/
+.env*
+site/docs/
+site/assets/vendor/
+site/assets/search-index.js
+static-check.json
+frontend-test-report.json
+__pycache__/
